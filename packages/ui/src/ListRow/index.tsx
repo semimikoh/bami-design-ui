@@ -1,4 +1,4 @@
-import {HTMLAttributes, ReactNode} from 'react'
+import type {HTMLAttributes, ReactNode} from 'react'
 import classNames from 'classnames/bind'
 import {Flex} from '../Flex'
 import {Text} from '../Text'
